@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**hackitbro6/hackitbro6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hackitbro6/hackitbro6** is a ✨ _special_ ✨ repository because its made by someone pro asf
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...u cant
 - 😄 Pronouns: ...no not none
 - ⚡ Fun fact: ...youre a stalker
--->
